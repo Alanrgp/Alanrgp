@@ -2,7 +2,7 @@
 
 *Desenvolvedor* 
 
-Apaixonado por tecnologia e movido pela curiosidade, estou trilhando minha jornada em Análise e Desenvolvimento de Sistemas (IFRO).
+Apaixonado por tecnologia, estou trilhando minha jornada em Análise e Desenvolvimento de Sistemas (IFRO).
 
 Hoje, mergulho no universo do C#, desbravo HTML & CSS e me preparo para explorar Banco de Dados (SQL). Cada linha de código que escrevo é um passo a mais rumo ao meu objetivo: atuar como Desenvolvedor Backend.
 
